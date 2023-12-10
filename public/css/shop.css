@@ -1,0 +1,95 @@
+img.img{
+    max-width: 100%;
+    max-height: 100%;
+}
+
+img.imgProd{
+    max-width: 100%;
+    /* max-height: 150px; */
+}
+
+.prod-image{
+    height: 150px;
+    border-radius: 10px;
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.prod-d-img{
+    width: 60px;
+    height: 60px;
+    border-radius: 10px;
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.prodImg{
+    width: 100px;
+    height: 100px;
+}
+
+.navy-blue-bg{
+    background-color: rgb(0, 34, 68);
+}
+
+button.add-prod{
+    padding: 6px 10px;
+    background-color: rgb(0, 34, 68);
+    color: #fff;
+}
+
+.menu-button{
+    text-align: center;
+    border-radius: 5px;
+    padding: 12px 15px;
+    box-shadow: 0px 0px 3px #ccc;
+    background-color: rgb(0, 34, 68);
+    color: #fff;
+}
+
+.menu-button:hover{
+    cursor: pointer;
+}
+
+.menu-button:active{
+    transform: scale(0.9)
+}
+
+.add-form{
+    box-shadow: 0px 0px 7px #ccc;
+    border-radius: 5px;
+}
+
+input{
+    width: 100%;
+    padding: 10px 12px;
+    border: 1px solid #ccc !important;
+    border-radius: 5px;
+    background-color: #fff !important;
+}
+
+input:focus{
+    background-color: #fff
+}
+
+button.submit{
+    width: 100%;
+    padding: 12px 15px;
+    background-color: rgb(0, 34, 68);
+    color: #fff;
+}
+
+button.add{
+    padding: 4px 6px;
+    background-color: rgb(0, 34, 68);
+    color: #fff;
+    cursor: pointer;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.cart-details{
+    box-shadow: 0px 0px 2px rgba(0, 0, 0, 0.5);
+}
