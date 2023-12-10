@@ -1,5 +1,0 @@
-# Node modules
-node_modules/
-
-# Firebase config file (if you have a specific file for Firebase config)
-/path/to/your/firebase-config.js
